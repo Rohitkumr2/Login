@@ -11,6 +11,6 @@
         "username": "1day",
         "password": "key",
         "expirydate": "12-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
