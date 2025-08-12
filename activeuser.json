@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "device123",
+        "device_id": "1a5327b4c624ffdf",
         "username": "2day",
         "password": "key",
         "expirydate": "13-08-2025",
@@ -10,7 +10,7 @@
         "device_id": "1a5327b4c624ffdf",
         "username": "1day",
         "password": "key",
-        "expirydate": "12-08-2025",
-        "Allowoffline": true
+        "expirydate": "13-08-2025",
+        "Allowoffline": false
     }
 ]
